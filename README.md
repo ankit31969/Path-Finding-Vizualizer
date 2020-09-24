@@ -1,5 +1,8 @@
 Dijkstra's algorithm is used for finding the shortest path from a starting node to a target node in a weighted graph is Dijkstra’s algorithm. The algorithm creates a tree of shortest paths from the starting vertex, the source, to all other points in the graph.
 
+<img width="943" alt="D1" src="https://user-images.githubusercontent.com/66682829/94117180-8aaf8000-fe69-11ea-9d2d-8240571e80d1.PNG">
+<img width="940" alt="D2" src="https://user-images.githubusercontent.com/66682829/94117186-8c794380-fe69-11ea-8dad-d4d9cfaa1579.PNG">
+<img width="946" alt="D3" src="https://user-images.githubusercontent.com/66682829/94117192-8e430700-fe69-11ea-867b-a2010a10422e.PNG">
 
 
 
